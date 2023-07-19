@@ -13,7 +13,7 @@ We first clarify the definitions of emotion and cause before introducing the tas
 
 Based on the multimodal conversational emotion cause dataset [ECF](https://github.com/NUSTM/MECPE), we define two subtasks, each of which contains two slots.
 
-![example](/Volumes/MyTOSHIBA_2/3博士/科研/Emotion_Cause/MECPE/my work/SemEval-2024/Site/SemEval-2024_ECAC-main/example.png)
+![example](https://github.com/NUSTM/SemEval-2024_ECAC/blob/main/example.png)
 
 ### Subtask 1: Textual Emotion Cause Analysis in Conversations
 In Subtask 1, an emotion cause is defined and annotated as a textual span. 
