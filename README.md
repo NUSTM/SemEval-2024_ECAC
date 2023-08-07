@@ -2,7 +2,7 @@
 
 We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
-**Join the mailing group:** [ecf_eca@groups.google.com](https://groups.google.com/g/ecf_eca)
+<!-- **Join the mailing group:** [ecf_eca@groups.google.com](https://groups.google.com/g/ecf_eca) -->
 
 **[TRIAL]** The sample data are uploaded to [Google Drive](https://drive.google.com/drive/folders/16jCk5o4dp0ew5ce-ewEEJ_v6bOPFJinC?usp=sharing).
 
