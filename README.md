@@ -2,9 +2,14 @@
 
 We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
-**Join the mailing group:** [ecf_eca@groups.google.com](https://groups.google.com/g/ecf_eca)
+🔥🔥🔥 [Training set](#Dataset) has been released!
 
-**[TRIAL]** The sample data are uploaded to [Google Drive](https://drive.google.com/drive/folders/16jCk5o4dp0ew5ce-ewEEJ_v6bOPFJinC?usp=sharing).
+🌟🌟🌟 Interested participants are encouraged to [register](https://forms.gle/ioFAFTbuMtoRM7yd6) now and join the [mailing list](https://groups.google.com/g/ecf_eca) to stay updated.
+
+<!--- **Registration Form:** [](https://forms.gle/ioFAFTbuMtoRM7yd6)
+**Mailing List:** [ecf_eca@groups.google.com](https://groups.google.com/g/ecf_eca)
+**[TRIAL]** The sample data are uploaded to [Google Drive](https://drive.google.com/drive/folders/16jCk5o4dp0ew5ce-ewEEJ_v6bOPFJinC?usp=sharing). -->
+
 
 ## Task
 We first clarify the definitions of emotion and cause before introducing the task. 
@@ -27,15 +32,21 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 - **Slot 1: Emotion Cause Extraction**  In consideration of three modalities, extracting the corresponding cause utterances given the target emotion utterance, e.g., given the Disgust emotion in U5, to predict the cause utterance U5.
 - **Slot 2: Emotion-Cause Pair Extraction**  In consideration of three modalities, extracting all emotion-cause pairs in the conversation, where each pair contains an emotion utterance along with its emotion category and a cause utterance, e.g., (U5\_Disgust, U5).
 
-## Dataset
+## <span id="Dataset">Dataset</span>
 
-Training and validation data will be made available here for download.
+Training data are uploaded to [Google Drive](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
+
+Evaluation data will be released on SemEval's timeline.
 
 ## Evaluation Metrics
 
 Similar to the previous works, we adopt Precision (P), Recall (R), and F1 as the evaluation metrics. 
 
 Specifically, for Subtask 1 which involves the textual cause span, we adopt two strategies to determine whether the span is extracted correctly: Strict Match (the predicted span should be exactly the same as the annotated span) and Fuzzy Match (the predicted span and the annotated one overlap).
+
+## CodaLab
+
+TBD
 
 ## Organizers
 - [Rui Xia](http://www.nustm.cn/member/rxia/index.html)
