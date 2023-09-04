@@ -33,7 +33,7 @@ Training and validation data will be made available here for download.
 
 ## Evaluation Metrics
 
-Similar to the previous works, we adopt **Precision (P)**, **Recall (R)**, and **F~1~** as the evaluation metrics. 
+Similar to the previous works, we adopt Precision (P), Recall (R), and F1 as the evaluation metrics. 
 
 Specifically, for Subtask 1 which involves the textual cause span, we adopt two strategies to determine whether the span is extracted correctly: Strict Match (the predicted span should be exactly the same as the annotated span) and Fuzzy Match (the predicted span and the annotated one overlap).
 
