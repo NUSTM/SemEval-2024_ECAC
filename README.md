@@ -32,6 +32,19 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 - **Slot 1: Emotion Cause Extraction**  In consideration of three modalities, extracting the corresponding cause utterances given the target emotion utterance, e.g., given the Disgust emotion in U5, to predict the cause utterance U5.
 - **Slot 2: Emotion-Cause Pair Extraction**  In consideration of three modalities, extracting all emotion-cause pairs in the conversation, where each pair contains an emotion utterance along with its emotion category and a cause utterance, e.g., (U5\_Disgust, U5).
 
+## Important Dates
+
+| Event | Date                                       |
+| :-------------------------------------------- | :-------------------------------------------------- |
+| ~~Tasks announced (with sample data available)~~ | ~~17 July 2023~~                                      |
+| ~~Training data ready~~                          | ~~4 September 2023~~                                   |
+| Evaluation start                             | 10 January 2024                                    |
+| Evaluation end                               | 31 January 2024                                    |
+| Paper submission due                         | 29 February 2024                                   |
+| Notification to authors                      | 1 April 2024                                       |
+| Camera ready due                             | 22 April 2024                                      |
+| SemEval workshop                             | TBD, 2024 (co-located with a major NLP conference) |
+
 ## <span id="Dataset">Dataset</span>
 
 Training data are uploaded to [Google Drive](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
