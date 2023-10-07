@@ -2,7 +2,7 @@
 
 We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
-❗️❗️❗️ Please note that the use of additional annotation data is not allowed for ECAC. However, we encourage participants to utilize publicly available Large Language Models, including ChatGPT, during system development.
+❗️❗️❗️ Please note that the use of additional annotation data is not allowed for ECAC. However, we encourage participants to utilize publicly available Large Language Models, including ChatGPT, during the system development and evaluation phases.
 
 🔥🔥🔥 [Training set](#Dataset) has been released!
 
