@@ -1,0 +1,326 @@
+[
+    {
+        "conversation_ID": 1,
+        "conversation": [
+            {
+                "utterance_ID": 1,
+                "text": "Alright , so I am back in high school , I am standing in the middle of the cafeteria , and I realize I am totally naked .",
+                "speaker": "Chandler"
+            },
+            {
+                "utterance_ID": 2,
+                "text": "Oh , yeah . Had that dream .",
+                "speaker": "All"
+            },
+            {
+                "utterance_ID": 3,
+                "text": "Then I look down , and I realize there is a phone ... there .",
+                "speaker": "Chandler"
+            },
+            {
+                "utterance_ID": 4,
+                "text": "Instead of ... ?",
+                "speaker": "Joey"
+            },
+            {
+                "utterance_ID": 5,
+                "text": "That is right .",
+                "speaker": "Chandler"
+            },
+            {
+                "utterance_ID": 6,
+                "text": "Never had that dream .",
+                "speaker": "Joey"
+            },
+            {
+                "utterance_ID": 7,
+                "text": "No .",
+                "speaker": "Phoebe"
+            },
+            {
+                "utterance_ID": 8,
+                "text": "All of a sudden , the phone starts to ring .",
+                "speaker": "Chandler"
+            }
+        ],
+        "emotion-cause_pairs": [
+            [
+                "3_surprise",
+                "1_21_27"
+            ],
+            [
+                "3_surprise",
+                "3_0_12"
+            ],
+            [
+                "4_surprise",
+                "1_21_27"
+            ],
+            [
+                "4_surprise",
+                "3_0_14"
+            ],
+            [
+                "5_anger",
+                "1_21_27"
+            ],
+            [
+                "5_anger",
+                "3_0_14"
+            ],
+            [
+                "5_anger",
+                "4_0_2"
+            ],
+            [
+                "5_anger",
+                "5_0_3"
+            ]
+        ]
+    },
+    {
+        "conversation_ID": 2,
+        "conversation": [
+            {
+                "utterance_ID": 1,
+                "text": "I do not want to be single , okay ? I just ... I just ... I just wanna be married again !",
+                "speaker": "Ross"
+            },
+            {
+                "utterance_ID": 2,
+                "text": "And I just want a million dollars !",
+                "speaker": "Chandler"
+            },
+            {
+                "utterance_ID": 3,
+                "text": "Rachel ? !",
+                "speaker": "Monica"
+            }
+        ],
+        "emotion-cause_pairs": [
+            [
+                "1_sadness",
+                "1_0_22"
+            ],
+            [
+                "3_surprise",
+                "3_0_1"
+            ]
+        ]
+    },
+    {
+        "conversation_ID": 3,
+        "conversation": [
+            {
+                "utterance_ID": 1,
+                "text": "Oh my God !",
+                "speaker": "Monica"
+            },
+            {
+                "utterance_ID": 2,
+                "text": "I know , I know , I am such an idiot .",
+                "speaker": "Paul"
+            },
+            {
+                "utterance_ID": 3,
+                "text": "I guess I should have caught on when she started going to the dentist four and five times a week . I mean , how clean can teeth get ?",
+                "speaker": "Paul"
+            },
+            {
+                "utterance_ID": 4,
+                "text": "My brother going through that right now , he is such a mess . How did you get through it ?",
+                "speaker": "Monica"
+            },
+            {
+                "utterance_ID": 5,
+                "text": "Well , you might try accidentally breaking something valuable of hers , say her ...",
+                "speaker": "Paul"
+            },
+            {
+                "utterance_ID": 6,
+                "text": "leg ?",
+                "speaker": "Monica"
+            },
+            {
+                "utterance_ID": 7,
+                "text": "That is one way !",
+                "speaker": "Paul"
+            },
+            {
+                "utterance_ID": 8,
+                "text": "Me , I ... I went for the watch .",
+                "speaker": "Paul"
+            },
+            {
+                "utterance_ID": 9,
+                "text": "You actually broke her watch ?",
+                "speaker": "Monica"
+            }
+        ],
+        "emotion-cause_pairs": [
+            [
+                "3_sadness",
+                "3_2_20"
+            ],
+            [
+                "6_surprise",
+                "4_14_20"
+            ],
+            [
+                "6_surprise",
+                "5_2_14"
+            ],
+            [
+                "6_surprise",
+                "6_0_1"
+            ],
+            [
+                "7_joy",
+                "5_2_14"
+            ],
+            [
+                "7_joy",
+                "6_0_1"
+            ],
+            [
+                "7_joy",
+                "7_0_4"
+            ],
+            [
+                "9_anger",
+                "5_2_11"
+            ],
+            [
+                "9_anger",
+                "8_4_9"
+            ],
+            [
+                "9_anger",
+                "9_0_5"
+            ]
+        ]
+    },
+    {
+        "conversation_ID": 4,
+        "conversation": [
+            {
+                "utterance_ID": 1,
+                "text": "Barry , I am sorry ...",
+                "speaker": "Rachel"
+            },
+            {
+                "utterance_ID": 2,
+                "text": "I am so sorry ...",
+                "speaker": "Rachel"
+            },
+            {
+                "utterance_ID": 3,
+                "text": "I know you probably think that this is all about what I said the other day about you making love with your socks on , but it is not ... it is not , it is about me , and I ju ...",
+                "speaker": "Rachel"
+            }
+        ],
+        "emotion-cause_pairs": []
+    },
+    {
+        "conversation_ID": 5,
+        "conversation": [
+            {
+                "utterance_ID": 1,
+                "text": "Oh , look , wish me luck !",
+                "speaker": "Rachel"
+            },
+            {
+                "utterance_ID": 2,
+                "text": "What for ?",
+                "speaker": "Monica"
+            },
+            {
+                "utterance_ID": 3,
+                "text": "I am gonna go get one of those job things .",
+                "speaker": "Rachel"
+            }
+        ],
+        "emotion-cause_pairs": [
+            [
+                "1_joy",
+                "3_0_10"
+            ],
+            [
+                "3_joy",
+                "3_0_10"
+            ]
+        ]
+    },
+    {
+        "conversation_ID": 12,
+        "conversation": [
+            {
+                "utterance_ID": 1,
+                "text": "Let it go , Ross .",
+                "speaker": "Joey"
+            },
+            {
+                "utterance_ID": 2,
+                "text": "Yeah , well , you did not know Chi Chi .",
+                "speaker": "Ross"
+            },
+            {
+                "utterance_ID": 3,
+                "text": "Do you all promise ?",
+                "speaker": "Monica"
+            },
+            {
+                "utterance_ID": 4,
+                "text": "Yeah ! We promise ! We will be good !",
+                "speaker": "All"
+            },
+            {
+                "utterance_ID": 5,
+                "text": "Chandler ? Do you promise to be good ?",
+                "speaker": "Monica"
+            },
+            {
+                "utterance_ID": 6,
+                "text": "You can come in , but your filter ... tipped little buddy has to stay outside !",
+                "speaker": "Joey"
+            },
+            {
+                "utterance_ID": 7,
+                "text": "Hey , Pheebs .",
+                "speaker": "Ross"
+            },
+            {
+                "utterance_ID": 8,
+                "text": "Dear Ms . Buffay . Thank you for calling attention to our error . We have credited your account with five hundred dollars .",
+                "speaker": "Phoebe"
+            },
+            {
+                "utterance_ID": 9,
+                "text": "We are sorry for the inconvenience , and hope you will accept this football phone ... as our free gift . Do you believe this ? ! Now I have a thousand dollars , and a football phone !",
+                "speaker": "Phoebe"
+            }
+        ],
+        "emotion-cause_pairs": [
+            [
+                "2_anger",
+                "1_0_3"
+            ],
+            [
+                "9_surprise",
+                "8_14_23"
+            ],
+            [
+                "9_surprise",
+                "9_0_6"
+            ],
+            [
+                "9_surprise",
+                "9_9_15"
+            ],
+            [
+                "9_surprise",
+                "9_27_38"
+            ]
+        ]
+    }
+]
