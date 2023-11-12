@@ -1,1 +1,1 @@
-Here are some files related to the Codalab website.
+Here are the evaluation script and submission sample related to the Codalab website.
