@@ -24,7 +24,7 @@ We first evaluate the emotion-cause pairs of each emotion category with Strict F
 $$P^j=\frac{\sum {CorrectPairs}^j}{\sum {PredictedPairs}^j},$$
 $$R^j=\frac{\sum {CorrectPairs}^j}{\sum {AnnotatedPairs}^j},$$
 $$F_1^j=\frac{2 \times P^j \times R^j}{P^j+R^j},$$
-where ${Pairs}^j$ denotes the number of pairs with emotion category $j$, $j\in \{anger, disgust, fear, joy, sadness, surprise\}$. Then we further calculate a weighted average of Strict F1 scores across the six emotion categories:
+where ${Pairs}^j$ denotes the number of pairs with emotion category $j$, $j\in \lbrace anger, disgust, fear, joy, sadness, surprise \rbrace $. Then we further calculate a weighted average of Strict F1 scores across the six emotion categories:
 $$F_1=\sum_{j=1}^{6} w^jF_1^j,$$
 where $w^j$ is the proportion of annotated pairs with emotion category $j$, i.e., $w^j=\frac{\sum {AnnotatedPairs}^j}{\sum AnnotatedPairs}$.
 
@@ -54,7 +54,7 @@ Similar to the w-avg. Strict F1, the w-avg. Proportional F1 is a weighted averag
 
 
 
-## Subtask 2: Textual Emotion-Cause Pair Extraction in Conversations
+## Subtask 2: Multimodal Emotion-Cause Pair Extraction in Conversations
 
 Given a conversation, each emotion-cause pair in this subtask should contain three elements: index of emotion utterance $eu_i$, emotion category $ec_i$, index of cause utterance $cu_i$, i,e, $p_i=[eu_i,ec_i,cu_i]$.
 The main evaluation metric is the `w-avg. F1`. We also calculate the micro `F1` score. A predicted pair is regarded as correct if its three elements are all the same as one of the annotated pairs.
