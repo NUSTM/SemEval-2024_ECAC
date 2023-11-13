@@ -34,7 +34,7 @@ Under the condition that the three elements $[{eu}_i,{ec}_i,{cu}_i]$ are the sam
 <!-- $${overlap}_i=len({ps}_i \cap {as}_k),$$
  -->
 $${overlap}_i=\begin{cases}
-len({ps}_i \cap {as}_k) & [{eu}_i,{ec}_i,{cu}_i] \text{are correct and } {ps}_i \cap {as}_k \neq \varnothing, \\
+len({ps}_i \cap {as}_k) & [{eu}_i,{ec}_i,{cu}_i] \text{ are correct and } {ps}_i \cap {as}_k \neq \varnothing, \\
 0 & \text{otherwise},
 \end{cases}$$
 
