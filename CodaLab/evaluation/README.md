@@ -24,7 +24,7 @@ We first evaluate the emotion-cause pairs of each emotion category with Strict F
 $$P^j=\frac{\sum {CorrectPairs}^j}{\sum {PredictedPairs}^j},$$
 $$R^j=\frac{\sum {CorrectPairs}^j}{\sum {AnnotatedPairs}^j},$$
 $$F_1^j=\frac{2 \times P^j \times R^j}{P^j+R^j},$$
-where ${*\_pairs}^j$ denotes the number of pairs with emotion category $j$, $j\in\{anger, disgust, fear, joy, sadness, surprise\}$. Then we further calculate a weighted average of Strict F1 scores across the six emotion categories:
+where ${Pairs}^j$ denotes the number of pairs with emotion category $j$, $j\in \{anger, disgust, fear, joy, sadness, surprise\}$. Then we further calculate a weighted average of Strict F1 scores across the six emotion categories:
 $$F_1=\sum_{j=1}^{6} w^jF_1^j,$$
 where $w^j$ is the proportion of annotated pairs with emotion category $j$, i.e., $w^j=\frac{\sum {AnnotatedPairs}^j}{\sum AnnotatedPairs}$.
 
@@ -40,7 +40,7 @@ len({ps}_i \cap {as}_k) & [{eu}_i,{ec}_i,{cu}_i] \text{are correct and } {ps}_i 
 
 $$k=\arg \mathop{\max}\limits_{t} \frac{len({ps}_i \cap {as}_t)}{len({as}_t)},$$
 
-where ${ps}_ i$ and ${as}_ k$ represent the cause span in the predicted pair ${Pp}_ {i}$ and the annotated pair ${Ap}_ {k}$ respectively.
+where $len(*)$ denotes the number of textual tokens, ${ps}_ i$ and ${as}_ k$ represent the cause span in the predicted pair ${pp}_ {i}$ and the annotated pair ${ap}_ {k}$ respectively.
 Then the proportional F1 is calculated based on the overlap length between the predicted span and the annotated span:
 
 $$P=\frac{\sum \sum_{i} {overlap}_ {i}}{\sum \sum_{i} len({ps}_ i)},$$
