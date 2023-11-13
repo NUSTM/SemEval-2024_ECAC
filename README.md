@@ -50,7 +50,7 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 - Similar to the previous works, we evaluate the emotion-cause pairs of each emotion category with **F1** scores separately and further calculate a weighted average of F1 scores across the six emotion categories (*Anger*, *Disgust*, *Fear*, *Joy*, *Sadness* and *Surprise*).
 - For Subtask 1 which involves the textual cause span, we adopt two strategies to determine whether the span is extracted correctly: Strict Match (the predicted span should be exactly the same as the annotated span) and Proportional Match (considering the overlap proportion between the predicted span and the annotated one).
 
-✨ You can find the details of the evaluation metrics on our CodaLab website.
+✨ You can find the details of the evaluation metrics on [GitHub](https://github.com/NUSTM/SemEval-2024_ECAC/blob/main/CodaLab/evaluation).
 
 
 ## CodaLab
