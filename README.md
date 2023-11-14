@@ -2,6 +2,8 @@
 
 We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
+🔥🔥🔥 Our [CodaLab Competition](#CodaLab) website is available!
+
 ❗️❗️❗️ The **task** has been updated! After careful consideration, we have decided to remove the Emotion Cause Extraction (ECE) task from the competition. The specific reasons have been explained in our group.
 
 🔥🔥🔥 [Training set](#Dataset) has been released!
@@ -53,10 +55,9 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 ✨ You can find the details of the evaluation metrics on [GitHub](https://github.com/NUSTM/SemEval-2024_ECAC/blob/main/CodaLab/evaluation).
 
 
-## CodaLab
+## <span id="CodaLab">CodaLab</span>
 
-*Coming soon...*
-
+Our [CodaLab Competition](https://codalab.lisn.upsaclay.fr/competitions/16141) website is available! Please refer to the [official instructions](https://github.com/SemEval/SemEval2024/blob/main/codalab.md#participating-in-a-codalab-competition) on how to participate in the competition.
 
 ## Important Dates
 
@@ -66,12 +67,13 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 | ~~Training data ready~~                          | ~~4 September 2023~~                                   |
 | Practice start on CodaLab                        | 01 December 2023                                    |
 | Evaluation start                             | 10 January 2024                                    |
-| Evaluation end                               | 31 January 2024                                    |
+| Evaluation end                               | 25 January 2024                                    |
 | Paper submission due                         | 29 February 2024                                   |
 | Notification to authors                      | 01 April 2024                                       |
 | Camera ready due                             | 22 April 2024                                      |
 | SemEval workshop                             | 16–21 June 2024 (co-located with NAACL 2024) |
 
+Note: All start times and deadlines are 00:00 and 23:59 UTC-12 (AOE), respectively.
 
 
 ## Organizers
