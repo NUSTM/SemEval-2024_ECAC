@@ -8,7 +8,7 @@ We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cau
 
 <!---🔥🔥🔥 [Training set](#Dataset) has been released!-->
 
-🌟🌟🌟 Interested participants are encouraged to register via [Google Form](https://forms.gle/ioFAFTbuMtoRM7yd6) and join our [Google Group](https://groups.google.com/g/ecf_eca) to stay updated.
+🌟🌟🌟 Interested participants are encouraged to <!--- register via [Google Form](https://forms.gle/ioFAFTbuMtoRM7yd6) and  -->join our [Google Group](https://groups.google.com/g/ecf_eca) to stay updated.
 
 <!--- **Registration Form:** [](https://forms.gle/ioFAFTbuMtoRM7yd6)
 **Mailing List:** [ecf_eca@groups.google.com](https://groups.google.com/g/ecf_eca)
@@ -57,7 +57,7 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 
 ## <span id="CodaLab">CodaLab</span>
 
-Our [CodaLab Competition](https://codalab.lisn.upsaclay.fr/competitions/16141) website is available! Please refer to the [official instructions](https://github.com/SemEval/SemEval2024/blob/main/codalab.md#participating-in-a-codalab-competition) on how to participate in the competition.
+Our [CodaLab Competition](https://codalab.lisn.upsaclay.fr/competitions/16141) website is available! Please refer to the [official instructions](https://github.com/SemEval/SemEval2024/blob/main/codalab.md#participating-in-a-codalab-competition) on how to participate in the competition. After registering for our competition on Codalab, please fill in your registered user information on the [online form](https://docs.google.com/spreadsheets/d/1Xq_ByQev4C-la3YP9Kql6186ciH-X9yIU6pJxhJalXc/edit?usp=sharing).
 
 ## Important Dates
 
