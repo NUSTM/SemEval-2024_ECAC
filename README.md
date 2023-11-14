@@ -6,7 +6,7 @@ We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cau
 
 ❗️❗️❗️ The **task** has been updated! After careful consideration, we have decided to remove the Emotion Cause Extraction (ECE) task from the competition. The specific reasons have been explained in our group.
 
-🔥🔥🔥 [Training set](#Dataset) has been released!
+<!---🔥🔥🔥 [Training set](#Dataset) has been released!-->
 
 🌟🌟🌟 Interested participants are encouraged to register via [Google Form](https://forms.gle/ioFAFTbuMtoRM7yd6) and join our [Google Group](https://groups.google.com/g/ecf_eca) to stay updated.
 
