@@ -41,18 +41,20 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 
 ## <span id="Dataset">Dataset</span>
 
-❗️Please note that the use of additional annotation data is not allowed for ECAC. However, we encourage participants to utilize publicly available Large Language Models, including ChatGPT, during the system development and evaluation phases.
+🔔 Please note that the use of additional annotation data is not allowed for ECAC. However, we encourage participants to utilize publicly available Large Language Models, including ChatGPT, during the system development and evaluation phases.
 
-- Training data have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
-- Trial data for the Practice phase will be available on December 1, 2023.
+- [Training data](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
+- [Trial data](https://drive.google.com/file/d/1Hf4qULr5CjxOiBglNC6OTLf1LFJxSDjU/view?usp=share_link) for the Practice phase on CodaLab
 - Evaluation data will be released on January 10, 2024.
+
+📢 Trial data and evaluation data contain some noise instances that will not be evaluated.
 
 ## Evaluation Metrics
 
 - Similar to the previous works, we evaluate the emotion-cause pairs of each emotion category with **F1** scores separately and further calculate a weighted average of F1 scores across the six emotion categories (*Anger*, *Disgust*, *Fear*, *Joy*, *Sadness* and *Surprise*).
 - For Subtask 1 which involves the textual cause span, we adopt two strategies to determine whether the span is extracted correctly: Strict Match (the predicted span should be exactly the same as the annotated span) and Proportional Match (considering the overlap proportion between the predicted span and the annotated one).
 
-✨ You can find the details of the evaluation metrics on [GitHub](https://github.com/NUSTM/SemEval-2024_ECAC/blob/main/CodaLab/evaluation).
+📢 You can find the details of the evaluation metrics on [GitHub](https://github.com/NUSTM/SemEval-2024_ECAC/blob/main/CodaLab/evaluation).
 
 
 ## <span id="CodaLab">CodaLab</span>
