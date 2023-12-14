@@ -20,8 +20,12 @@ def get_json_data(json_file):
 def convert_list_to_dict(data_list, main_key=''):
     new_dict = {}
     for x in data_list:
-        if x[main_key] not in new_dict:
-            new_dict[x[main_key]] = x
+        if 'ID' in main_key:
+            key = int(x[main_key])
+        else:
+            key = x[main_key]
+        if key not in new_dict:
+            new_dict[key] = x
         else:
             sys.exit('Instance repeat!')
     return new_dict
@@ -201,6 +205,8 @@ def evaluate_1_2(pred_data, gold_data):
                             if emotion not in emotion_idx:
                                 sys.exit('Unknown emotion category!')
                             else:
+                                if 'U' in emo_id:
+                                    emo_id = emo_id.replace('U','')
                                 if pred:
                                     if has_letter(x[1]):
                                         sys.exit('emotion-cause_pairs format error! You should provide the position index range of the cause span, not the text itself.')
@@ -210,9 +216,13 @@ def evaluate_1_2(pred_data, gold_data):
                                             sys.exit('emotion-cause_pairs format error!')
                                         else:
                                             cause_id, span_start_id, span_end_id = cause_info
+                                            if 'U' in cause_id:
+                                                cause_id = cause_id.replace('U','')
                                             span_idx_list = [int(span_start_id), int(span_end_id)]
                                 else:
                                     cause_id, cur_span = x[1].split('_')
+                                    if 'U' in cause_id:
+                                        cause_id = cause_id.replace('U','')
                                     cur_span = clean_span(cur_span)
                                     span_idx_list = get_span_position(cur_span, all_utterances[int(cause_id)-1])
                                 
@@ -290,6 +300,8 @@ def evaluate_2_2(pred_data, gold_data):
                 if emotion not in emotion_idx:
                     sys.exit('Unknown emotion category!')
                 else:
+                    if 'U' in emo_id:
+                        emo_id = emo_id.replace('U','')
                     return [id, int(emo_id), int(pair_scores[1]), emotion_idx[emotion]]
             
             for p in ins["emotion-cause_pairs"]:
