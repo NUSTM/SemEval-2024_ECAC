@@ -70,7 +70,7 @@ Our [CodaLab Competition](https://codalab.lisn.upsaclay.fr/competitions/16141) w
 | Practice start on CodaLab                        | 01 December 2023                                    |
 | Evaluation start                             | 15 January 2024                                    |
 | Evaluation end                               | 31 January 2024                                    |
-| Paper submission due                         | 29 February 2024                                   |
+| Paper submission due                         | 19 February 2024                                   |
 | Notification to authors                      | 01 April 2024                                       |
 | Camera ready due                             | 22 April 2024                                      |
 | SemEval workshop                             | 16–21 June 2024 (co-located with NAACL 2024) |
