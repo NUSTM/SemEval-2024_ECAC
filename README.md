@@ -45,7 +45,7 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 
 - [Training data](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
 - [Trial data](https://drive.google.com/file/d/1Hf4qULr5CjxOiBglNC6OTLf1LFJxSDjU/view?usp=share_link) for the Practice phase on CodaLab
-- Evaluation data will be released on January 10, 2024.
+- [Evaluation data](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
 
 📢 Trial data and evaluation data contain some noise instances that will not be evaluated.
 
@@ -67,7 +67,7 @@ Our [CodaLab Competition](https://codalab.lisn.upsaclay.fr/competitions/16141) w
 | :-------------------------------------------- | :-------------------------------------------------- |
 | ~~Tasks announced (with sample data available)~~ | ~~17 July 2023~~                                      |
 | ~~Training data ready~~                          | ~~4 September 2023~~                                   |
-| Practice start on CodaLab                        | 01 December 2023                                    |
+| ~~Practice start on CodaLab~~                        | ~~01 December 2023~~                                  |
 | Evaluation start                             | 15 January 2024                                    |
 | Evaluation end                               | 31 January 2024                                    |
 | Paper submission due                         | 19 February 2024                                   |
