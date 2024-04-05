@@ -2,6 +2,8 @@
 
 We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
+🎉🎉🎉 The **task paper** is available [here](https://aclanthology.org/2024.semeval2024-1.273). Please [cite](#Citation) it according to the official format.
+
 🔥🔥🔥 Our [CodaLab Competition](#CodaLab) website is available!
 
 ❗️❗️❗️ The **task** has been updated! After careful consideration, we have decided to remove the Emotion Cause Extraction (ECE) task from the competition. The specific reasons have been explained in our group.
@@ -68,11 +70,11 @@ Our [CodaLab Competition](https://codalab.lisn.upsaclay.fr/competitions/16141) w
 | ~~Tasks announced (with sample data available)~~ | ~~17 July 2023~~                                      |
 | ~~Training data ready~~                          | ~~4 September 2023~~                                   |
 | ~~Practice start on CodaLab~~                        | ~~01 December 2023~~                                  |
-| Evaluation start                             | 15 January 2024                                    |
-| Evaluation end                               | 31 January 2024                                    |
-| Paper submission due                         | 19 February 2024                                   |
-| Notification to authors                      | 18 March 2024                                       |
-| Camera ready due                             | 01 April 2024                                      |
+| ~~Evaluation start~~                             | ~~15 January 2024~~                                    |
+| ~~Evaluation end~~                               | ~~31 January 2024~~                                    |
+| ~~Paper submission due~~                         | ~~19 February 2024~~                                   |
+| ~~Notification to authors~~                      | ~~18 March 2024~~                                       |
+| ~~Camera ready due~~                             | ~~01 April 2024~~                                      |
 | SemEval workshop                             | 16–21 June 2024 (co-located with NAACL 2024) |
 
 Note: All deadlines are 23:59 UTC-12 (AOE).
@@ -84,15 +86,28 @@ Note: All deadlines are 23:59 UTC-12 (AOE).
 - <a href="mailto:ffwang@njust.edu.cn">Fanfan Wang</a>
 - [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)
 
-## Citation
+## <span id="Citation">Citation</span>
 ```
-@ARTICLE{wang2022multimodal,
+@ARTICLE{wang2023multimodal,
   author={Wang, Fanfan and Ding, Zixiang and Xia, Rui and Li, Zhaoyu and Yu, Jianfei},
   journal={IEEE Transactions on Affective Computing}, 
   title={Multimodal Emotion-Cause Pair Extraction in Conversations}, 
-  year={2022},
-  pages={1-12},
-  issn = {1949-3045},
+  year={2023},
+  volume={14},
+  number={3},
+  pages={1832-1844},
   doi = {10.1109/TAFFC.2022.3226559}
+}
+
+@InProceedings{wang2024SemEval,
+  author={Wang, Fanfan  and  Ma, Heqing  and  Xia, Rui  and  Yu, Jianfei  and  Cambria, Erik},
+  title={SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations},
+  booktitle={Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)},
+  month={June},
+  year={2024},
+  address={Mexico City, Mexico},
+  publisher={Association for Computational Linguistics},
+  pages={2022--2033},
+  url = {https://aclanthology.org/2024.semeval2024-1.273}
 }
 ```
