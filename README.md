@@ -6,7 +6,7 @@ We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cau
 
 🔥🔥🔥 Our [CodaLab Competition](#CodaLab) website is available!
 
-❗️❗️❗️ The **task** has been updated! After careful consideration, we have decided to remove the Emotion Cause Extraction (ECE) task from the competition. The specific reasons have been explained in our group.
+<!---❗️❗️❗️ The **task** has been updated! After careful consideration, we have decided to remove the Emotion Cause Extraction (ECE) task from the competition. The specific reasons have been explained in our group.-->
 
 <!---🔥🔥🔥 [Training set](#Dataset) has been released!-->
 
