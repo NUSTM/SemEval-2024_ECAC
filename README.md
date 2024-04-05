@@ -1,8 +1,8 @@
-# SemEval-2024 Task 3: The Competition of Multimodal Emotion Cause Analysis in Conversations
+# SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations
 
-We organize an ECAC evaluation, namely the Competition of Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
+We organize an ECAC evaluation, namely Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
-🎉🎉🎉 The **task paper** is available [here](https://aclanthology.org/2024.semeval2024-1.273). Please [cite](#Citation) it according to the official format.
+🎉🎉🎉 Our **task paper** is available [here](https://aclanthology.org/2024.semeval2024-1.273). Please [cite](#Citation) it according to the official format.
 
 🔥🔥🔥 Our [CodaLab Competition](#CodaLab) website is available!
 
@@ -75,16 +75,17 @@ Our [CodaLab Competition](https://codalab.lisn.upsaclay.fr/competitions/16141) w
 | ~~Paper submission due~~                         | ~~19 February 2024~~                                   |
 | ~~Notification to authors~~                      | ~~18 March 2024~~                                       |
 | ~~Camera ready due~~                             | ~~01 April 2024~~                                      |
-| SemEval workshop                             | 16–21 June 2024 (co-located with NAACL 2024) |
+| SemEval workshop                             | 20–21 June 2024 (co-located with NAACL 2024) |
 
-Note: All deadlines are 23:59 UTC-12 (AOE).
+Note: All deadlines are 23:59 UTC-12 (AoE).
 
 
 ## Organizers
 - [Rui Xia](http://www.nustm.cn/member/rxia/index.html)
 - [Jianfei Yu](https://sites.google.com/site/jfyu1990/)
-- <a href="mailto:ffwang@njust.edu.cn">Fanfan Wang</a>
+- [Fanfan Wang](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=bG1H7OQAAAAJ)
 - [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)
+<!--- - <a href="mailto:ffwang@njust.edu.cn">Fanfan Wang</a> -->
 
 ## <span id="Citation">Citation</span>
 ```
