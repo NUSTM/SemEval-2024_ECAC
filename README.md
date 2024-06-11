@@ -2,7 +2,7 @@
 
 We organize an ECAC evaluation, namely Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
-🎉🎉🎉 Our **task paper** is available [here](https://aclanthology.org/2024.semeval2024-1.273). Please [cite](#Citation) it according to the official format.
+🎉🎉🎉 <!---Our **task paper** is available [here](https://aclanthology.org/2024.semeval2024-1.273).--> Our paper is currently available on [arXiv](https://arxiv.org/abs/2405.13049), and the [official version](https://aclanthology.org/2024.semeval2024-1.273) will be published soon. Please [cite](#Citation) it according to the official format.
 
 🔥🔥🔥 Our [CodaLab Competition](#CodaLab) website is available!
 
