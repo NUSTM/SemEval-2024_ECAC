@@ -2,7 +2,7 @@
 
 We organize an ECAC evaluation, namely Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
-🎉🎉🎉 <!---Our **task paper** is available [here](https://aclanthology.org/2024.semeval2024-1.273).--> Our paper is currently available on [arXiv](https://arxiv.org/abs/2405.13049), and the [official version](https://aclanthology.org/2024.semeval2024-1.273) will be published soon. Please [cite](#Citation) it according to the official format.
+🎉🎉🎉 Our **task paper** is available [here](https://aclanthology.org/2024.semeval-1.277/). <!---Our paper is currently available on [arXiv](https://arxiv.org/abs/2405.13049), and the [official version](https://aclanthology.org/2024.semeval2024-1.273) will be published soon.--> Please [cite](#Citation) it according to the official format.
 
 🔥🔥🔥 Our [CodaLab Competition](#CodaLab) website is available!
 
@@ -102,13 +102,13 @@ Note: All deadlines are 23:59 UTC-12 (AoE).
 
 @InProceedings{wang2024SemEval,
   author={Wang, Fanfan  and  Ma, Heqing  and  Xia, Rui  and  Yu, Jianfei  and  Cambria, Erik},
-  title={SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations},
-  booktitle={Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)},
-  month={June},
-  year={2024},
-  address={Mexico City, Mexico},
-  publisher={Association for Computational Linguistics},
-  pages={2022--2033},
-  url = {https://aclanthology.org/2024.semeval2024-1.273}
+  title = "{S}em{E}val-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations",
+  booktitle = "Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)",
+  month = jun,
+  year = "2024",
+  address = "Mexico City, Mexico",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2024.semeval-1.277",
+  pages = "2039--2050",
 }
 ```
