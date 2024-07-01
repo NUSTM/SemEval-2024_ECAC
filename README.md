@@ -2,7 +2,7 @@
 
 We organize an ECAC evaluation, namely Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
-🎉🎉🎉 Our **task paper** is available [here](https://aclanthology.org/2024.semeval-1.277/). <!---Our paper is currently available on [arXiv](https://arxiv.org/abs/2405.13049), and the [official version](https://aclanthology.org/2024.semeval2024-1.273) will be published soon.--> Please [cite](#Citation) it according to the official format.
+🎉🎉🎉 Our **task paper** is available [here](https://aclanthology.org/2024.semeval-1.277/). Please [cite](#Citation) it according to the official format.
 
 🔥🔥🔥 Our [CodaLab Competition](#CodaLab) website is available!
 
@@ -50,6 +50,7 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 - [Evaluation data](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
 
 📢 Trial data and evaluation data contain some noise instances that will not be evaluated.
+📢 Our dataset is also available at [Zenodo](https://zenodo.org/records/11189677). 
 
 ## Evaluation Metrics
 
@@ -75,7 +76,7 @@ Our [CodaLab Competition](https://codalab.lisn.upsaclay.fr/competitions/16141) w
 | ~~Paper submission due~~                         | ~~19 February 2024~~                                   |
 | ~~Notification to authors~~                      | ~~18 March 2024~~                                       |
 | ~~Camera ready due~~                             | ~~01 April 2024~~                                      |
-| SemEval workshop                             | 20–21 June 2024 (co-located with NAACL 2024) |
+| ~~SemEval workshop~~                             | ~~20–21 June 2024 (co-located with NAACL 2024)~~ |
 
 Note: All deadlines are 23:59 UTC-12 (AoE).
 
