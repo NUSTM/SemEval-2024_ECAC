@@ -4,25 +4,10 @@ We organize an ECAC evaluation, namely Multimodal Emotion Cause Analysis in Conv
 
 🎉🎉🎉 Our **task paper** is available [here](https://aclanthology.org/2024.semeval-1.277/). Please [cite](#Citation) it according to the official format.
 
-🔥🔥🔥 Our [CodaLab Competition](#CodaLab) website is available!
-
-<!---❗️❗️❗️ The **task** has been updated! After careful consideration, we have decided to remove the Emotion Cause Extraction (ECE) task from the competition. The specific reasons have been explained in our group.-->
-
-<!---🔥🔥🔥 [Training set](#Dataset) has been released!-->
-
-🌟🌟🌟 Interested participants are encouraged to <!--- register via [Google Form](https://forms.gle/ioFAFTbuMtoRM7yd6) and  -->join our [Google Group](https://groups.google.com/g/ecf_eca) to stay updated.
-
-<!--- **Registration Form:** [](https://forms.gle/ioFAFTbuMtoRM7yd6)
-**Mailing List:** [ecf_eca@groups.google.com](https://groups.google.com/g/ecf_eca)
-**[TRIAL]** The sample data are uploaded to [Google Drive](https://drive.google.com/drive/folders/16jCk5o4dp0ew5ce-ewEEJ_v6bOPFJinC?usp=sharing). -->
+🌟🌟🌟 We welcome interested colleagues to join our [Google Group](https://groups.google.com/g/ecf_eca) and submit their results to our [CodaLab Competition](#CodaLab) website.
 
 
 ## Task
-<!---
-We first clarify the definitions of emotion and cause before introducing the task. 
-- **Emotion** is a psychological state associated with thought, feeling and behavioral response. In conversations, emotions are usually annotated at the utterance level. In our dataset, emotion categories are Ekman’s six basic emotions including *Anger*, *Disgust*, *Fear*, *Joy*, *Sadness* and *Surprise*. 
-- **Cause** refers to the objective event or subjective argument that triggers the corresponding emotion.
--->
 
 ![example](https://github.com/NUSTM/SemEval-2024_ECAC/raw/main/example.png)
 
@@ -43,15 +28,15 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 
 ## <span id="Dataset">Dataset</span>
 
-🔔 Please note that the use of additional annotation data is not allowed for ECAC. However, we encourage participants to utilize publicly available Large Language Models, including ChatGPT, during the system development and evaluation phases.
+To access the dataset **ECF 2.0**, please refer to the [data](https://github.com/NUSTM/SemEval-2024_ECAC/tree/main/data) folder.
 
-- [Training data](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
-- [Trial data](https://drive.google.com/file/d/1Hf4qULr5CjxOiBglNC6OTLf1LFJxSDjU/view?usp=share_link) for the Practice phase on CodaLab
-- [Evaluation data](https://drive.google.com/drive/folders/1TIRBiL8z4ZnoxtuKM8pnjtm2BxB5mS4Y?usp=sharing).
+- **Training data**: the ECF dataset
+- **Evaluation data**: the additionally annotated test set
 
-📢 Trial data and evaluation data contain some noise instances that will not be evaluated.
+❗️❗️❗️ Please ensure that the data is used exclusively for research purposes!
 
-📢 Our dataset is also available at [Zenodo](https://zenodo.org/records/11189677). 
+🔔 Note that the use of additional annotation data is not allowed for ECAC. However, we encourage participants to utilize publicly available Large Language Models, including ChatGPT, during the system development and evaluation phases.
+
 
 ## Evaluation Metrics
 
@@ -87,7 +72,7 @@ Note: All deadlines are 23:59 UTC-12 (AoE).
 - [Jianfei Yu](https://sites.google.com/site/jfyu1990/)
 - [Fanfan Wang](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=bG1H7OQAAAAJ)
 - [Erik Cambria](https://dr.ntu.edu.sg/cris/rp/rp00927)
-<!--- - <a href="mailto:ffwang@njust.edu.cn">Fanfan Wang</a> -->
+
 
 ## <span id="Citation">Citation</span>
 ```
