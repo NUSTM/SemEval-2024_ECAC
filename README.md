@@ -1,5 +1,7 @@
 # SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations
 
+[![Dataset](https://img.shields.io/badge/Dataset-🤗_Hugging_Face-F0A336)](https://huggingface.co/datasets/NUSTM/ECF) [![Conference](https://img.shields.io/badge/Paper-SemEval--2024-D93B2E)](https://aclanthology.org/2024.semeval-1.277/) [![Conference](https://img.shields.io/badge/Paper-arXiv:2405.13049-A42F22)](https://arxiv.org/abs/2405.13049) [![Website](https://img.shields.io/badge/Competition-CodaLab-7AC5F0)](https://codalab.lisn.upsaclay.fr/competitions/16141) [![Website](https://img.shields.io/badge/Group-Google-4C7DE8)](https://groups.google.com/g/ecf_eca)
+
 We organize an ECAC evaluation, namely Multimodal Emotion Cause Analysis in Conversations, as a shared task of [SemEval-2024](https://semeval.github.io/SemEval2024/tasks).
 
 🎉🎉🎉 Our **task paper** is available [here](https://aclanthology.org/2024.semeval-1.277/). Please [cite](#Citation) it according to the official format.
@@ -97,5 +99,12 @@ Note: All deadlines are 23:59 UTC-12 (AoE).
   publisher = "Association for Computational Linguistics",
   url = "https://aclanthology.org/2024.semeval-1.277",
   pages = "2039--2050",
+}
+
+@article{wang2024semeval,
+  title={Semeval-2024 task 3: Multimodal emotion cause analysis in conversations},
+  author={Wang, Fanfan and Ma, Heqing and Yu, Jianfei and Xia, Rui and Cambria, Erik},
+  journal={arXiv preprint arXiv:2405.13049},
+  year={2024}
 }
 ```
