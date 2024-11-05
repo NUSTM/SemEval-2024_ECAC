@@ -21,7 +21,7 @@ In this subtask, an emotion cause is defined and annotated as a textual span.
 - Input: a conversation containing the **speaker** and the **text** of each utterance.
 - Output: all emotion-cause pairs, where each pair contains an **emotion utterance** along with its **emotion category** and the **textual cause span** in a specific **cause utterance**, e.g., (U3\_Joy, U2\_"You made up!").
 
-### Subtask 2: Multimodal Emotion Cause Analysis in Conversations
+### Subtask 2: Multimodal Emotion-Cause Pair Extraction in Conversations
 
 It should be noted that sometimes the cause can not be reflected in text only, and we accordingly propose a multimodal subtask to extract emotion cause in all three modalities (language, audio, and vision). For example, the cause for Phoebe’s Disgust in U5 is that Monica and Chandler were kissing in front of her, which is reflected in the visual modality of U5. In this case, cause is defined and annotated at the utterance level.
 
