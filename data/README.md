@@ -2,7 +2,7 @@
 
 The dataset ECF 2.0 for [**SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations**](https://aclanthology.org/2024.semeval-1.277) is released here.
 
-In our preliminary work [MECPE](https://github.com/NUSTM/MECPE), we constructed the **ECF (1.0)** dataset. For this SemEval competition, the entire ECF (1.0) dataset serves as the training data, and we have **additionally annotated a test set** as the evaluation data, together constituting the **ECF 2.0** dataset.
+In our preliminary work [MECPE](https://github.com/NUSTM/MECPE), we constructed the **ECF (1.0)** dataset. For this SemEval competition, **the entire ECF (1.0) dataset serves as the training data**, and we have **additionally annotated a new test set** as the evaluation data, together constituting the **ECF 2.0** dataset.
 
 
 ## File Description
