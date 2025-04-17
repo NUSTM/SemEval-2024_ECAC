@@ -30,7 +30,7 @@ It should be noted that sometimes the cause can not be reflected in text only, a
 
 ## <span id="Dataset">Dataset</span>
 
-To access the dataset **ECF 2.0**, please refer to the [data](https://github.com/NUSTM/SemEval-2024_ECAC/tree/main/data) folder.
+To access the dataset **ECF 2.0**, please refer to the [data](https://github.com/NUSTM/SemEval-2024_ECAC/tree/main/data) folder or [Hugging Face](https://huggingface.co/datasets/NUSTM/ECF).
 
 - **Training data**: the ECF dataset
 - **Evaluation data**: the additionally annotated test set
